@@ -5,6 +5,7 @@ import './App.css'
 import Counter from './components/Counter'
 import Effect from './components/Effect'
 import Ref from './components/Ref'
+import LayoutTut from './components/LayoutTut'
 
 function App() {
 
@@ -12,7 +13,8 @@ function App() {
     <>
       {/* <Counter /> */}
       {/* <Effect /> */}
-      <Ref />
+      {/* <Ref /> */}
+      <LayoutTut />
     </>
   )
 }
